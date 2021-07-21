@@ -1,0 +1,75 @@
+nav {
+    text-align: left;
+    padding: 0px;
+    margin: 0;
+}
+
+
+.menuOff{
+    display: none;
+}
+
+.menuOn {
+    display: block;
+}
+
+
+nav ul {
+    list-style-type: none; 
+    margin: 0;
+}
+
+nav li {
+    border: solid 1px black;
+    width: 400px;
+    height: 30px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+.navigation-links {
+    padding: 0px;
+}
+
+.li1 {
+    color: white;
+    background-color: lightgrey;
+}
+
+.li2 {
+    background-color: red;
+}
+
+.li3 {
+    background-color: orange;
+}
+
+.li4 {
+    background-color: purple;
+}
+
+.li5 {
+    background-color: green;
+}
+
+.lightgrey-bg {
+    background-color: lightgrey;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.orange-bg {
+    background-color: orange;
+}
+
+.purple-bg {
+    background-color: purple;
+}
+
+.green-bg {
+    background-color: green;
+}
